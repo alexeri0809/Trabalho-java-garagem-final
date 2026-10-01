@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/ba2672/Desktop/trabalho-java-garagem/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ba2672/Desktop/trabalho-java-garagem/demo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.example.fabrica
+com.example.facade
+com.example.garagem
+com.example
+com.example.matricula
+com.example.veiculo
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\src\main\java = 1790067688446
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\allclasses-index.html = 1790759161361
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\allpackages-index.html = 1790759161363
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\constant-values.html = 1790759161263
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\element-list = 1790759161216
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\help-doc.html = 1790759161386
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\index-all.html = 1790759161381
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\index.html = 1790759161343
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\member-search-index.js = 1790759161367
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\module-search-index.js = 1790759161364
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\overview-summary.html = 1790759161384
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\overview-tree.html = 1790759161340
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\package-search-index.js = 1790759161365
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\search.html = 1790759161383
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\tag-search-index.js = 1790759161368
+C:\Users\ba2672\Desktop\trabalho-java-garagem\demo\target\site\apidocs\type-search-index.js = 1790759161366
